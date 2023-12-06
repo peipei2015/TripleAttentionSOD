@@ -2,7 +2,7 @@
 This github introduces the proposed triple attention framework for RGB-D salient object detection.
 ## Prediction maps of SOTA methods
 TANet ||
-A2dele ||
+A2dele[https://drive.google.com/file/d/15vc2tvm_3mktpMX_Ea_A0KrswOwhWKaA/view?usp=drive_link] ||
 DQSD ||
 DCMF ||
 CoNet ||
@@ -18,7 +18,6 @@ BBSNet ||
 BTS ||
 JLDCF ||
 DCF ||
-MAD ||
 CRNet ||
 HINet ||
 EGA ||
