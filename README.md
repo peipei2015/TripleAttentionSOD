@@ -22,3 +22,6 @@ This github introduces the proposed triple attention framework for RGB-D salient
 [HINet](https://pan.baidu.com/s/1skhiI_T7obKGnXHGOXBRBw?pwd=vqym) ||
 [EGA](https://pan.baidu.com/s/1UHoM54-zn1YpPPc97HhhUw?pwd=bqut) ||
 [CAVER](https://pan.baidu.com/s/1XvN4LQ8aAv5uhLb69dOYLA?pwd=9ji7) ||
+
+## Prediction maps of our method
+[Train on NJUD and NLPR](https://pan.baidu.com/s/1TU_5ioPI2YKK0LL2nGAI9g?pwd=kahc) || [Train on NJUD, NLPR, DUT](https://pan.baidu.com/s/1KsH9knPggVEc6-o9wjbULQ?pwd=99jf)
